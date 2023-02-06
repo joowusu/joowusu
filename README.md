@@ -4,8 +4,8 @@ My name is Joan Owusu.  I'm a Site Reliability Engineer.  My ultimate goal is to
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Joan%20Joan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-o-7b1753184/)](https://www.linkedin.com/in/joan-o-7b1753184/)
-[![Medium Badge](https://img.shields.io/badge/Joan%20Joan-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@mamowusu/)](https://medium.com/@mamowusu/)
+[![Linkedin Badge](https://img.shields.io/badge/-Joan%20Owusu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joan-o-7b1753184/)](https://www.linkedin.com/in/joan-o-7b1753184/)
+[![Medium Badge](https://img.shields.io/badge/Joan%20Owusu-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@mamowusu/)](https://medium.com/@mamowusu/)
 [![Gmail Badge](https://img.shields.io/badge/-joanowusu29@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joanowusu29@gmail.com)](mailto:joanowusu29@gmail.com)
 
 ## ⚡ Technologies
