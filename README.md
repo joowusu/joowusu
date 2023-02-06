@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Joan Owusu.  I'm a Site Reliability Engineer.  My ultimate goal is to pivot to the DevSecOps and AI/ML field. 
+My name is Joan Owusu.  I'm a Site Reliability Engineer.  My ultimate goal is to transition into a career in DevSecOps or AI/ML.
 
 Find out more about me & feel free to connect with me here:
 
